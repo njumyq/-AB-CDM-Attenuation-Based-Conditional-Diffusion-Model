@@ -2,7 +2,7 @@
 
 AB‑CDM is a conditional denoising diffusion probabilistic model (DDPM) for **stochastic reconstruction of 3D porous media** from limited 2D surface observations. It integrates **multi‑view conditional embeddings**, **axis‑specific exponential attenuation**, and a **3D U‑Net** backbone to generate high‑fidelity internal pore structures.
 
-![Workflow](./Images/workflow.jpg)
+![Workflow](./Images/Workflow.jpg)
 
 ---
 
